@@ -18,6 +18,3 @@
 ### v1.0. (当前版本)
 - 首次发布
 - 实现基本功能
-
-## 下载
-https://github.com/petehsu/yigebaijian/releases/download/1.0/app-release.apk
