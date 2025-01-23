@@ -1,6 +1,6 @@
 {
     "latestVersion": "1.1",
-    "latestVersionCode": 2,
+    "latestVersionCode": 3,
     "releaseNotes": [
         "- 用户可自定义是否显示一言",
         "- 用户可自定义和风天气apikey",
