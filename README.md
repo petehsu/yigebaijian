@@ -16,13 +16,14 @@
 
 ## 版本历史
 
-### v1.0.0 (当前版本)
+### v1.0. (当前版本)
 - 首次发布
 - 实现基本功能
 
-### v1.0.1 (计划中)
+### v1.1. (计划中)
 - 优化性能
 - 修复已知问题
 - 改进用户体验
 
 ## 下载
+https://github.com/petehsu/yigebaijian/releases/download/1.0/app-release.apk
