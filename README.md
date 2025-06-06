@@ -1,4 +1,4 @@
-# 一个百见 (YiGeBaiJian)
+# 一个摆件 (YiGeBaiJian)
 
 一个简洁优雅的Android时间显示应用，专注于时间的美学呈现。
 
