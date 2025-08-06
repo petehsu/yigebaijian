@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">一个摆件</string>
+    <string name="channel_name">待办事项通知</string>
+    <string name="channel_description">显示待办事项的数量</string>
+</resources>
